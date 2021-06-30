@@ -4113,3 +4113,22 @@ input, select, textarea {
 .about-me {
 	text-align: right;
 }
+
+.icon > img {
+	width: 65px;
+	height: auto;
+	margin-top: 20px;
+}
+
+.white {
+	filter: invert(100%);
+}
+
+img.nodejs {
+	width: 90px;
+	margin-top: 10px;
+}
+
+img.redux {
+	margin-top: 15px;
+}
