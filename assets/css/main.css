@@ -3448,7 +3448,7 @@ input, select, textarea {
 	}
 
 /* Banner */
-/* 
+
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
@@ -3527,7 +3527,7 @@ input, select, textarea {
 
 	body.is-touch #banner {
 		background-attachment: scroll;
-	} */
+	}
 
 /* Footer */
 
