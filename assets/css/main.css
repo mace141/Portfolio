@@ -4115,7 +4115,7 @@ input, select, textarea {
 .icon > img {
 	width: 65px;
 	height: auto;
-	margin-top: 20px;
+	margin-top: 18%;
 }
 
 .white {
@@ -4129,4 +4129,14 @@ img.nodejs {
 
 img.redux {
 	margin-top: 15px;
+}
+
+#white-logo {
+	height: 40px;
+	width: 40px;
+	margin-top: 3px;
+}
+
+#logo img {
+	margin-top: 10px;
 }
